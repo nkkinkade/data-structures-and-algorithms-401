@@ -13,3 +13,5 @@ Input: array and value
 Output: array
 
 ![whiteboard 02](../../assets/challenge02.png)
+
+3. 
