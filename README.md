@@ -14,4 +14,10 @@ Output: array
 
 ![whiteboard 02](../../assets/challenge02.png)
 
-3. 
+3. Binary Search
+
+Input: array and searched value
+Output: array position
+
+![whiteboard 03](../../assets/challenge03.png)
+
