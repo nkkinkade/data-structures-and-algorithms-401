@@ -21,3 +21,8 @@ Output: array position
 
 ![whiteboard 03](../../assets/challenge03.png)
 
+# Linked List Challenges
+
+Zipper
+
+I![Zipper whiteboard](../../assets/zipper.png)
